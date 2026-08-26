@@ -21,15 +21,16 @@ The project was developed to understand endpoint security, process monitoring, t
 
 ## 📂 Project Components
 
-```text
-Keylogger/
-├── keylogger/
-│   └── keylogger.py
-├── detector/
-│   └── detector.py
+Keylogger-Keylogger-Detector/
+│
 ├── README.md
-└── requirements.txt
-```
+├── key_logger.py
+├── key.py
+├── key_detector.py
+├── detector_scanner.py
+│
+├── requirements.txt
+└── .gitignore
 
 ## 🎯 Learning Objectives
 
